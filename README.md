@@ -79,13 +79,13 @@ Since the output resistance becomes much larger, the gain increases significantl
 
 ## Disadvantages
 
-Reduced output voltage swing
+◆ Reduced output voltage swing
 
-Requires higher supply voltage
+◆ Requires higher supply voltage
 
-More transistors
+◆ More transistors
 
-Increased circuit complexity
+◆ Increased circuit complexity
 
 ## Cascode Op-Amp — Definition
 
