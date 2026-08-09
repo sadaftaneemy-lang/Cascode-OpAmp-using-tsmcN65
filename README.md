@@ -6,8 +6,8 @@ A Cascode Op-Amp is an operational amplifier in which one or more amplification 
 
 ## 💻 Software
 
-- Cadence Virtuoso
-- tsmc Node65
+✪ Cadence Virtuoso
+✪ tsmc Node65
 
 ## What is a Cascode?
 
