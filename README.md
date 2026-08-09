@@ -58,7 +58,7 @@ or approximately
 
 Since the output resistance becomes much larger, the gain increases significantly
 
-## Components used
+## 🛠️ Components used
 
 **Schematic**
 
