@@ -4,7 +4,7 @@ A Cascode Operational Amplifier (Cascode Op-Amp) is an operational amplifier tha
 
 A Cascode Op-Amp is an operational amplifier in which one or more amplification stages employ a cascode configuration to increase the amplifier's gain by increasing its output resistance while reducing the Miller effect, thereby improving frequency response and stability
 
-## Tool used
+## 💻 Tool used
 
 - Cadence Virtuoso
 - tsmc Node65
