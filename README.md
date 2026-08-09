@@ -65,17 +65,17 @@ Since the output resistance becomes much larger, the gain increases significantl
 
 ## Advantages
 
-⟡ Very high DC gain
+◆ Very high DC gain
 
-⟡ High output resistance
+◆ High output resistance
 
-⟡ Better frequency response
+◆ Better frequency response
 
-⟡ Reduced Miller effect
+◆ Reduced Miller effect
 
-⟡ Improved stability
+◆ Improved stability
 
-⟡ Better isolation between input and output
+◆ Better isolation between input and output
 
 ## Disadvantages
 
