@@ -111,3 +111,5 @@ The stacked transistors provide:
 🔹 Improved isolation between input and output
 
 🔹 Better gain accuracy
+
+# About the project
