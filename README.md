@@ -112,4 +112,4 @@ The stacked transistors provide:
 
 🔹 Better gain accuracy
 
-# About the project
+# 💎 About the project
